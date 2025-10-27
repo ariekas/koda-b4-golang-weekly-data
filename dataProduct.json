@@ -58,6 +58,12 @@
       "Name": "Nasi Uduk",
       "Price": 8000,
       "Category": "Makanan"
-    }
+    },
+    {
+        "ID": 11,
+        "Name": "Seblak",
+        "Price": 15000,
+        "Category": "Makanan"
+      }
   ]
   
