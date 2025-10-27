@@ -1,0 +1,63 @@
+[
+    {
+      "ID": 1,
+      "Name": "Nasi Goreng",
+      "Price": 15000,
+      "Category": "Makanan"
+    },
+    {
+      "ID": 2,
+      "Name": "Mie Goreng",
+      "Price": 13000,
+      "Category": "Makanan"
+    },
+    {
+      "ID": 3,
+      "Name": "Sate Ayam",
+      "Price": 20000,
+      "Category": "Makanan"
+    },
+    {
+      "ID": 4,
+      "Name": "Bakso",
+      "Price": 12000,
+      "Category": "Makanan"
+    },
+    {
+      "ID": 5,
+      "Name": "Nasi Padang",
+      "Price": 18000,
+      "Category": "Makanan"
+    },
+    {
+      "ID": 6,
+      "Name": "Rendang",
+      "Price": 25000,
+      "Category": "Makanan"
+    },
+    {
+      "ID": 7,
+      "Name": "Ayam Goreng",
+      "Price": 17000,
+      "Category": "Makanan"
+    },
+    {
+      "ID": 8,
+      "Name": "Gado-Gado",
+      "Price": 10000,
+      "Category": "Makanan"
+    },
+    {
+      "ID": 9,
+      "Name": "Pecel Lele",
+      "Price": 15000,
+      "Category": "Makanan"
+    },
+    {
+      "ID": 10,
+      "Name": "Nasi Uduk",
+      "Price": 8000,
+      "Category": "Makanan"
+    }
+  ]
+  
